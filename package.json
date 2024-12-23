@@ -1,0 +1,19 @@
+{
+  "name": "indenthorizon-client",
+  "version": "1.0.0",
+  "description": "CLI client for the Indent Horizon, a MMORPG for coders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkeAlmighty/indenthorizon-client.git"
+  },
+  "author": "ikealmighty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IkeAlmighty/indenthorizon-client/issues"
+  },
+  "homepage": "https://github.com/IkeAlmighty/indenthorizon-client#readme"
+}
